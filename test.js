@@ -1,2 +1,2 @@
 import number from './sum.js';
-console.log(number)
+console.log(number);
